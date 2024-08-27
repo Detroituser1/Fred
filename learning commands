@@ -1,0 +1,4 @@
+[root@localhost~] # dnf search aspell-en
+[root@localhost~] # dnf install aspell-en.x86_64
+[root@localhost~] # cd
+[user1@localhost~] # su
