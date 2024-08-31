@@ -2,3 +2,6 @@
 [root@localhost~] # dnf install aspell-en.x86_64
 [root@localhost~] # cd
 [user1@localhost~] # su
+[root@localhost~] cat etc/passwd
+ctrl L = clear
+[Phillip@localhost~] cal 11 2002 > november_work_schedule
